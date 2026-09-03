@@ -44,7 +44,7 @@ const scenes = [
     n: "03",
     title: "Titik Sangrai",
     desc: "Panas mengubah warna, aroma, dan karakter setiap biji kopi.",
-    image: "/images/scene-2-brewing.jpeg",
+    image: "/images/scene-3-grindel.jpeg",
     alt: "Biji kopi hasil sangrai",
     focal: "center 45%",
     zoomFrom: 1,
